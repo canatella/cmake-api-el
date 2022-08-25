@@ -1,4 +1,4 @@
-;;; cmake-api.el -- CMake api -*- lexical-binding: t; -*-
+;;; cmake-api.el --- CMake api -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2020 Damien Merenne <dam@cosinux.org>
 
